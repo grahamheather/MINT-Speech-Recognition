@@ -1,0 +1,2 @@
+zh_dict_model/model.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+zh_model/zh_broadcastnews_64000_utf8.DMP filter=lfs diff=lfs merge=lfs -text
