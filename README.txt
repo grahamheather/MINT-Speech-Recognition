@@ -1,3 +1,6 @@
+# DESCRIPTION
+The Multilingual Naming Test (MINT, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4212892/) measures language fluency by showing the participant a series of pictures and asking them to name each picture in the language.  This program transcribes an audio recording of this test by leveraging the pre-specified order of pictures (although the pictures may or may not be correctly identified) and synonyms of the words using WordNet.
+
 # INSTALLATION ON LINUX
 Copy mint.zip to a convenient location and extract.
 Open a command line terminal.
